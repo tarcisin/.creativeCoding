@@ -1,0 +1,27 @@
+head {
+  text-shadow: red: -2px 0 
+  cyan: 2px 0;
+}
+li {
+  color: #791862;
+}
+table {
+  background-color: #995079;
+}
+tr {
+  background-color: #ffffff;
+}
+body {
+  text-shadow: red: -2px 0 
+  cyan: 2px 0;
+  background-image: url("https://gamerview.uai.com.br/wp-content/uploads/2019/08/Catherine-Full-Body_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-color: #ffffff;
+  border-width: 12px;
+  border-style: solid;
+}
+
+h3 + ul{
+  border: 5px dashed;
+}
